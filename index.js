@@ -8,7 +8,7 @@ const path = "./data.json";
 const git = simpleGit();
 
 // Fokus ke tahun 2024 saja
-const startDate = moment("2025-05-11");
+const startDate = moment("2024-06-11");
 const endDate = moment("2025-06-11");
 
 const displayUI = (message, type = "info") => {
